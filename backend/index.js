@@ -10,7 +10,7 @@ app.use(cors());
 
 const configuration = new Configuration({
   organization: "Personal",
-  apiKey: "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",
+  apiKey: "YOUR-API-KEY",
 });
 const openai = new OpenAIApi(configuration);
 
