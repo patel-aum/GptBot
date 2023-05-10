@@ -1,2 +1,3 @@
 
-Build A Chat Bot Application With OpenAI, ChatGPT, Nodejs, And React
+Build A Chat Bot Application With OpenAI API, ChatGPT, Nodejs, And React
+
